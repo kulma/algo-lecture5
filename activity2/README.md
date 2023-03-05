@@ -4,6 +4,7 @@
 
 Refer to the following link. Discuss how the Recursive Fibonacci with Memoization works:
 https://www.cs.usfca.edu/~galles/visualization/DPFib.html
+> (I can't get these visualizations to work, it says to enter a value but you can't input anything to the text field, same with the other visualization links from cs.usfca.edu)
 
 ## Task 2
 

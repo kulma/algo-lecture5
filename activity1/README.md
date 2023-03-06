@@ -25,6 +25,7 @@ There are `n` stairs, a person standing at the bottom wants to reach the top. Th
 - There are `n` stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 stair or 2 stairs or **3 stairs** at a time. Write a program that counts the number of ways, the person can reach the top. You can use the following program as a starter `./src/staircase1.cpp`. Also the link below might useful:
   https://www.includehelp.com/cpp-programs/stair-case-program-to-solve-the-staircase-problem.aspx
 
+> In staircase1.cpp
 
 
 ## Task 4: Individual (at home)

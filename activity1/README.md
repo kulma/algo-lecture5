@@ -6,17 +6,19 @@
   Recursive Factorial works:
   https://www.cs.usfca.edu/~galles/visualization/RecFact.html
   
-  > 
+  > Factorial is the product of all the positive integers from 1 to n. Recursive factorial function calls itself to repeat the steps in the code until the solution is completed. 
  
 
 - Refer to the following link. Discuss how the Recursive Fibonacci works:
   https://www.cs.usfca.edu/~galles/visualization/DPFib.html
 
  >
+
 ## Task 2
 
 There are `n` stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 stair or 2 stairs at a time. There is a simple implementations in `./src/` folder. Discuss how the code works.
 
+> Main function calls for function number_of_paths(int n) that checks if the variable n is less than 1, 1 or 2. Then it returns to Main with return number_of_paths(n - 1) + number_of_paths(n - 2).
 
 ## Task 3
 
